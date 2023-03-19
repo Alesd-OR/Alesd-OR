@@ -1,16 +1,49 @@
-### Hi there 👋
+- 🔭 I work daily using
+   <div style="display: inline_block"><br>
+   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
+   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg">
+          
+- 🌱 Languages/platforms I'm currently learning
 
-<!--
-**Alesd-OR/Alesd-OR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <div style="display: inline_block"><br>
+    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
+    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+          
+          
+<div>
+    <h2>👨‍💻About me</h2>
+    <img align="right" height="400px" >
+     <p>📌Hey, my name is Alessandro de Olivera and I'm 20 years old, I currently live in São Paulo - SP and I started studying programming since August 2022, with the goal of becoming a
+       <b><i>Full-Stack Developer e Cyber Security Specialist</i></b></p>
+    💆🏽‍♂️ I am always seeking knowledge daily. I can quickly learn what is needed to keep the process going. I believe we always need to learn, think outside the box and step out of our comfort zone.</p>  
+    🧬 <b>Soft Skills:</b> Teamwork, Leadership, Organization, Discipline, Communication and Creative</p>
 
-Here are some ideas to get you started:
+  <div>
+<h2 align="center">🌐Where to find me</h2>
+  <div align="center">
+    <a href="https://github.com/Alesd-OR" target="_blank">
+      &nbsp;&nbsp; <img height="32px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+    <a href="mailto:alessandro1395271@gmail.com">
+       &nbsp; <img height="32px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Meu e-mail">
+    </a>
+    <a href="https://www.linkedin.com/in/alesd-or/" target="_blank">
+      &nbsp; <img height="32px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://www.instagram.com/al_oliver.r/" target="_blank">
+    &nbsp; <img height="32px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div><br>
+    <div align="center">
+    <a href="https://github.com/Alesd-OR">
+      <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Alesd-OR&theme=radical">
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Alesd-OR&show_icons=true&theme=radical">
+     </div>
