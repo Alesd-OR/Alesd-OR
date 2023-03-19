@@ -23,7 +23,7 @@
     <img align="right" height="400px" >
      <p>📌Hey, my name is Alessandro de Olivera and I'm 20 years old, I currently live in São Paulo - SP and I started studying programming since August 2022, with the goal of becoming a
        <b><i>Full-Stack Developer e Cyber Security Specialist</i></b></p>
-    💆🏽‍♂️ I am always seeking knowledge daily. I can quickly learn what is needed to keep the process going. I believe we always need to learn, think outside the box and step out of our comfort zone.</p>  
+    💆🏽‍♂️The search for knowledge is a never-ending journey and those who are passionate about learning new things know it better than anyone. Each day, I'm eager to explore new ideas, discover new fields of knowledge and add value to their baggage of experiences. Learning new things is more than just a hobby for me. It's a passion, a lifestyle. I know that by learning, I can expand my perspectives, increase my ability to solve problems, and most importantly, enrich my life.</p>  
     🧬 <b>Soft Skills:</b> Teamwork, Leadership, Organization, Discipline, Communication and Creative</p>
 
   <div>
