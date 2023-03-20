@@ -17,7 +17,7 @@
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
     
-       <div>
+  
     <h2>👨‍💻About me</h2>
     <img align="right" height="400px" >
      <p>📌Hey, my name is Alessandro de Olivera and I'm 20 years old, I currently live in São Paulo - SP and I started studying programming since August 2022, with the goal of becoming a
