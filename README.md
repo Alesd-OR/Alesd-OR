@@ -51,3 +51,7 @@
       <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Alesd-OR&show_icons=true&theme=radical">
      </div>
        
+     <div align="center">
+
+    <img alt="github contribution snake animation" src="https://github.com/jonathandesb/jonathandesb/blob/output/github-contribution-grid-snake.svg">
+    </div>
