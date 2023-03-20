@@ -51,3 +51,4 @@
       <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Alesd-OR&show_icons=true&theme=radical">
      </div>
        
+![Snake animation](https://github.com/Alesd-OR/Alesd-OR/blob/output/github-contribution-grid-snake.svg)
