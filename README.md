@@ -51,5 +51,5 @@
       <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Alesd-OR&show_icons=true&theme=radical">
      </div>
        
-![snake gif](https://github.com/Alesd-OR/Alesd-OR/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Alesd-OR/blob/output/github-contribution-grid-snake.svg)
 
