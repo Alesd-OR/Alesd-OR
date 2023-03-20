@@ -53,5 +53,4 @@
        
      <div align="center">
 
-    <img alt="github contribution snake animation" src="https://github.com/Alesd-OR/Alesd-OR/blob/output/github-contribution-grid-snake.svg">
-    </div>
+    [snake gif](https://github.com/Alesd-OR/Ales-OR/blob/output/github-contribution-grid-snake.svg)
