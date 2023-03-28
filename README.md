@@ -1,4 +1,3 @@
-
 - 🔭 I work daily using
    <div style="display: inline_block"><br>
    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
@@ -53,4 +52,4 @@
       <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alesd-OR&&layout=compact&theme=dark"/>
      </div>
 
-     ![Snake animation](https://github.com/Alesd-OR/Alesd-OR/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Alesd-OR/Alesd-OR/blob/output/github-contribution-grid-snake.svg)
