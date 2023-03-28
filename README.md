@@ -1,4 +1,4 @@
-       ![Snake animation](https://github.com/Alesd-OR/Alesd-OR/blob/Output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Alesd-OR/Alesd-OR/blob/output/github-contribution-grid-snake.svg)
 
 - 🔭 I work daily using
    <div style="display: inline_block"><br>
