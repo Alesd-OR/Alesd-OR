@@ -1,4 +1,3 @@
-  ![Snake animation](https://github.com/Alesd-OR/Alesd-OR/blob/output/github-contribution-grid-snake.svg)
 
 - 🔭 I work daily using
    <div style="display: inline_block"><br>
@@ -27,6 +26,8 @@
     💆🏽‍♂️The search for knowledge is a never-ending journey and those who are passionate about learning new things know it better than anyone. Each day, I'm eager to explore new ideas, discover new fields of knowledge and add value to my baggage of experiences. Learning new things is more than just a hobby for me. It's a passion, a lifestyle. I know that by learning, I can expand my perspectives, increase my ability to solve problems, and most importantly, enrich my life.</p>  
     🧬 <b>Soft Skills:</b> Teamwork, Leadership, Organization, Discipline, Communication and Creative</p>
    
+     ![Snake animation](https://github.com/Alesd-OR/Alesd-OR/blob/output/github-contribution-grid-snake.svg)
+
   <div>
 <h2 align="center">🌐Where to find me</h2>
   <div align="center">
