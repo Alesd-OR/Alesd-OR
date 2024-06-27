@@ -21,7 +21,7 @@
     <div style="display: inline_block"><br>
     <img align="center" height="40" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019">
     <img align="center" height="40" width="50" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="apache-netbeans">
-    <img align="center" height="40" width="50" src="https://img.icons8.com/officel/16/java-eclipse.png" alt="java-eclipse">
+    <img align="center" height="40" width="50" src="https://img.icons8.com/officel/80/java-eclipse.png" alt="java-eclipse">  
 
     <h2>👨‍💻About me</h2>
     <img align="right" height="400px" >
