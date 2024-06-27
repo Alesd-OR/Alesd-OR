@@ -15,8 +15,14 @@
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-    
-  
+
+- 🌱 IDE's I'm familiar with:
+
+    <div style="display: inline_block"><br>
+    <img align="center" height="40" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019">
+    <img align="center" height="40" width="50" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="apache-netbeans">
+    <img align="center" height="40" width="50" src="https://img.icons8.com/officel/16/java-eclipse.png" alt="java-eclipse">
+
     <h2>👨‍💻About me</h2>
     <img align="right" height="400px" >
      <p>📌Hey, my name is Alessandro de Oliveira and I'm 22 years old, I currently live in São Paulo - SP and I started studying programming since August 2022, with the goal of becoming a
