@@ -8,6 +8,7 @@
 - 🌱 Languages/platforms I'm currently learning
 
     <div style="display: inline_block"><br>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
