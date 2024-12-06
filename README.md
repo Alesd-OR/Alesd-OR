@@ -26,7 +26,7 @@
     <h2>👨‍💻About me</h2>
     <img align="right" height="400px" >
      <p>📌Hey, my name is Alessandro de Oliveira and I'm 22 years old, I currently live in São Paulo - SP and I started studying programming since August 2022, with the goal of becoming a
-       <b><i>Data Analyst or a Data Enginner</i></b></p>
+       <b><i>Data Analyst, Data Enginner or some Stack Developer</i></b></p>
     💆🏽‍♂️The search for knowledge is a never-ending journey and those who are passionate about learning new things know it better than anyone. Each day, I'm eager to explore new ideas, discover new fields of knowledge and add value to my baggage of experiences. Learning new things is more than just a hobby for me. It's a passion, a lifestyle. I know that by learning, I can expand my perspectives, increase my ability to solve problems, and most importantly, enrich my life.</p>  
     🧬 <b>Soft Skills:</b> Teamwork, Leadership, Organization, Discipline, Communication and Creative</p>
          
